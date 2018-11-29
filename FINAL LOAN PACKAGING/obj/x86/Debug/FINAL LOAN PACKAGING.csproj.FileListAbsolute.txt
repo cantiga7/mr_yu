@@ -35,3 +35,8 @@ C:\Users\CANTIGA\Desktop\Loan Master 11222018\FINAL LOAN PACKAGING\obj\x86\Debug
 C:\Users\CANTIGA\Desktop\Loan Master 11222018\FINAL LOAN PACKAGING\obj\x86\Debug\FINAL LOAN PACKAGING.csproj.GenerateResource.Cache
 C:\Users\CANTIGA\Desktop\Loan Master 11222018\FINAL LOAN PACKAGING\obj\x86\Debug\FINAL LOAN PACKAGING.exe
 C:\Users\CANTIGA\Desktop\Loan Master 11222018\FINAL LOAN PACKAGING\obj\x86\Debug\FINAL LOAN PACKAGING.pdb
+C:\mryu\mr_yu\FINAL LOAN PACKAGING\bin\Debug\FINAL LOAN PACKAGING.exe.config
+C:\mryu\mr_yu\FINAL LOAN PACKAGING\obj\x86\Debug\Interop.SAPbobsCOM.dll
+C:\mryu\mr_yu\FINAL LOAN PACKAGING\obj\x86\Debug\FINAL LOAN PACKAGING.csproj.ResolveComReference.cache
+C:\mryu\mr_yu\FINAL LOAN PACKAGING\obj\x86\Debug\FINAL LOAN PACKAGING.exe
+C:\mryu\mr_yu\FINAL LOAN PACKAGING\obj\x86\Debug\FINAL LOAN PACKAGING.pdb
